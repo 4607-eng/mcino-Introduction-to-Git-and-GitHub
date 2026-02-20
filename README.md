@@ -10,4 +10,4 @@ Input:
 Output
    simple interest = p*t*r
 
-  #https://github.com/4607-eng/mcino-Introduction-to-Git-and-GitHub/blob/main/README.md
+__2023 XYZ, Inc.__
